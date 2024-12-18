@@ -12,7 +12,7 @@ De funktioner der virker:
 - Tilgå gæstprofil og opret en ticket -> mangler funktion til at gemme ticket hos den betalende bruger
 
 ## Installation
-Installer ved brug af terminalen i hovedmappen serviceknappen ved brug af kommandoen npm install 
+Installer ved brug af terminalen i hovedmappen ServiceKnappenInno2024 ved brug af kommandoen npm install 
 For at starte appen kør her npx expo start
 
 ### Forudsætninger
